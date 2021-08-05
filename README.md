@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @destructor-c from Germany
-- 👀 I’m interested in learning C, ASM & C++
+- 👀 I’m interested in C, ASM, C++, cnc milling, 3d printing, lathes, geodomes and coffee :) 
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on RP2040, 8-16bit, Arduino 
 
